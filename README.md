@@ -6,7 +6,7 @@
 - 💪 I'm improving my coding skills and making best practices a habit
 - 👯 I’m looking to collaborate with other developers on interesting projects
 - 🔗 Expanding my network and making developer friends
-- 🥅 2022 Goals: Finish my front-End Course on theodinproject
+- 🥅 2023 Goals: Become a Full-Stack software Engineer
 - ⚡ Fun fact: I love to listen to Music and spend time relaxing 
 
 ### Languages and Tools:
