@@ -2,7 +2,7 @@
 
 ## I'm a Student and a Developer!!
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently building with React
 - 💪 I'm improving my coding skills and making best practices a habit
 - 👯 I’m looking to collaborate with other developers on interesting projects
 - 🔗 Expanding my network and making developer friends
