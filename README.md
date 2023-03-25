@@ -1,13 +1,4 @@
-# Hi there, I'm Cal, a passionate Front-End developer 
-
-## I'm a Student and a Developer!!
-
-- 🌱 I’m currently building with React
-- 💪 I'm improving my coding skills and making best practices a habit
-- 👯 I’m looking to collaborate with other developers on interesting projects
-- 🔗 Expanding my network and making developer friends
-- 🥅 2023 Goals: Become a Full-Stack software Engineer
-- ⚡ Fun fact: I love to listen to Music and spend time relaxing 
+- 🌱 I’m currently improving with React
 
 ### Languages and Tools:
 
