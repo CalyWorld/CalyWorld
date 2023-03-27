@@ -1,4 +1,4 @@
-- 🌱 I’m currently improving with React **currently improving my techniques**
+- 🌱 I’m currently improving with React
 
 ### Languages and Tools:
 
