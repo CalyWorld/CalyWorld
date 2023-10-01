@@ -1,4 +1,4 @@
-- 🌱 I’m currently improving with React and Typescript
+- 🌱 I’m currently improving with React,Typescript and nodeJS
 
 ### Languages and Tools:
 
