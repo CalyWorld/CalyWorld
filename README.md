@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/callistus-anizoba-151547134/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="calyworld" height="30" width="40" /></a>
-<a href="https://discord.gg/caly8449" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vinch#1114" height="30" width="40" /></a>
+<a href="https://discord.gg/caly8449" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="calyworld" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,12 +25,11 @@
 <img align="left" alt="Firebase" width="26px" src="https://www.svgrepo.com/show/303670/firebase-1-logo.svg" style="padding-right:10px;" />
 <img align="left" alt="nodeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
-<img align="left" alt="mongodb" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-</p>
+<img align="left" alt="mongodb" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=CalyWorld" alt="calyworld" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CalyWorld&show_icons=true&locale=en&layout=compact" alt="calyworld" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CalyWorld&show_icons=true&locale=en" alt="calyworld" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=CalyWorld&" alt="calyworld" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CalyWorld&" alt="calyworld" /></p>
 
