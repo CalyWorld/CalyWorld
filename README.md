@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cal</h1>
 
 - 🌱 I’m currently improving with React, Javascript, Typescript, Nodejs.
-- 🌱 I'm currently learning Python and C# simultaneously.
+- 🌱 I'm currently learning Python.
 - 📝 I love to write and you can find my writings on medium [https://medium.com/@obinnaanizoba5]
-- 💬 Ask me about C#, React, Typescript, Nodejs and python
+- 💬 Ask me about React, Typescript, Nodejs and python
 - 📫 How to reach me **obinnaanizoba5@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
